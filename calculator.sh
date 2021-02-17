@@ -1,4 +1,4 @@
-fno=50
+fno=60
 sno=20
-multi=$(($fno*$sno))
-echo  "multiplication  is:-" $multi
+div=$(($fno/$sno))
+echo  "division is:-" $div
